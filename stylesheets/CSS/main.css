@@ -1,0 +1,35 @@
+body {
+  font-family: "Rubik", sans-serif;
+}
+body p {
+  font-size: 24px;
+}
+
+.top {
+  text-align: center;
+}
+.top h1 {
+  font-size: 4em;
+}
+.top h3 {
+  font-size: 2em;
+}
+
+.atoms {
+  font-family: 'Roboto Slab', serif;
+}
+.atoms .carbon {
+  color: black;
+}
+.atoms .nitrogen {
+  color: #18d10e;
+}
+.atoms .oxygen {
+  color: #e02121;
+}
+
+.canvas {
+  border: 2px solid black;
+  height: 400px;
+  width: 40%;
+}
